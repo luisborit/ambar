@@ -1,2 +1,3 @@
-# ambar
-Ambar: Web Application for Productivity
+# Ambar: Web Application for Productivity
+- Frontend: React
+- Backend: Express 
